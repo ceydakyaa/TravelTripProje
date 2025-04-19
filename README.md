@@ -49,3 +49,6 @@ Bu proje, yazılım geliştirme yolculuğumda kazandığım bilgilerin sahada na
 Sürdürülebilir, genişletilebilir ve kullanıcı odaklı bir sistem geliştirme becerilerimi yansıtmaktadır.
 
 ---
+
+![Image](https://github.com/user-attachments/assets/e80c323d-28b4-4efb-8c1c-4e40b9af1d2e)
+
