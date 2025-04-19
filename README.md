@@ -28,4 +28,24 @@ Bu proje; gerçek dünyaya yakın bir yapıda, dinamik içerik yönetimi, veri t
 - Admin Paneli ile içerik yönetimi:
   - Yeni destinasyon ekleme
   - İçerik düzenleme ve silme
-  - Kategori
+  - Kategori bazlı filtreleme
+- Hakkımızda, İletişim, Referanslar gibi statik sayfalar
+- Veritabanına bağlı dinamik içerik yapısı
+- Temiz kod mimarisi & kullanıcı dostu arayüz
+
+---
+
+## 🎯 Projeden Edindiğim Yetkinlikler
+
+- Katmanlı mimari ile okunabilir ve sürdürülebilir kod yapısı oluşturma
+- Entity Framework ile veri tabanı işlemlerini yönetme
+- Frontend tarafında responsive ve modern arayüz geliştirme
+- Giriş kontrolü, içerik yetkilendirme ve güvenlik
+- Gerçek dünyaya uygun proje yapısı kurarak full stack geliştirme pratiği kazanma
+
+---
+
+Bu proje, yazılım geliştirme yolculuğumda kazandığım bilgilerin sahada nasıl kullanılacağını deneyimlediğim, öğrenme sürecimi somutlaştıran bir çalışmadır.  
+Sürdürülebilir, genişletilebilir ve kullanıcı odaklı bir sistem geliştirme becerilerimi yansıtmaktadır.
+
+---
