@@ -54,8 +54,12 @@ Sürdürülebilir, genişletilebilir ve kullanıcı odaklı bir sistem geliştir
 
 ![Image](https://github.com/user-attachments/assets/515d3610-5026-4636-bb52-869faf33d836)
 
+![Image](https://github.com/user-attachments/assets/b6722005-c168-4537-a104-58aef6d6d17d)
+
 ![Image](https://github.com/user-attachments/assets/2899790b-4e17-4e40-83b9-73a41795f88f)
 
 ![Image](https://github.com/user-attachments/assets/30d9c933-c0fa-4347-ada2-4bac5d10247a)
 
 ![Image](https://github.com/user-attachments/assets/cf5d2803-2f55-4bec-8b6c-265be3caee09)
+
+
