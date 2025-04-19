@@ -52,3 +52,5 @@ Sürdürülebilir, genişletilebilir ve kullanıcı odaklı bir sistem geliştir
 
 ![Image](https://github.com/user-attachments/assets/e80c323d-28b4-4efb-8c1c-4e40b9af1d2e)
 
+![Image](https://github.com/user-attachments/assets/515d3610-5026-4636-bb52-869faf33d836)
+
